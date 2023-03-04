@@ -3,36 +3,39 @@
     border: 3px solid red;
     padding: 15px;
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-areas: 
+    "t1 t1 t2 t3"
+    "t4 t5 t5 t3";
+    grid-gap: 20px;
 }
 
 .container div {
     background-color: antiquewhite;
     border: 2px solid blue;
     padding: 20px;
+    border-radius: 10px;
 }
 
 #item-1 {
-    grid-row-start: 1;
-    grid-row-end: 2;
-    grid-column-start: 1;
-    grid-column-end: 3;
+    grid-area: t1;
+    grid-column: "t1";
+    
 }
 
-
 #item-2 {
-    grid-column-start: 3;
-    grid-column-end: 4;
-    grid-row-start: 1;
-    grid-row-end: 2;
+   grid-area: t2;
 }
 
 #item-3 {
-    grid-row-start: 1;
-    grid-row-end: 3;
+    grid-area: t3;
+    grid-row: "t3";
+}
+
+#item-4 {
+    grid-area: t4;
 }
 
 #item-5 {
-    grid-column-start: 2;
-    grid-column-end: 4;
+    grid-area: t5;
+    grid-column: "t5";
 }
