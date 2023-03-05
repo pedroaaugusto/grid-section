@@ -1,6 +1,6 @@
 # Sobre
 
-Este é um projeto de desafio do Frontend Mentor para que eu possa testar minhas habilidades em HTML5 e CSS3, para construir uma interface onde os usuarios visualizem o layout ideal para o site, dependendo do tamanho da tela do dispositivo
+Este é um projeto de desafio do Frontend Mentor para que eu possa testar minhas habilidades em HTML5 e CSS3, para construir uma interface onde os usuarios visualizem o layout ideal para o site, dependendo do tamanho da tela do dispositivo, com foco de usar a habilidade do display grid dentro do CSS.
 
 # Frontend Mentor - Seção de grade de depoimentos
 
