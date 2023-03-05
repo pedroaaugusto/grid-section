@@ -4,13 +4,13 @@ Este é um projeto de desafio do Frontend Mentor para que eu possa testar minhas
 
 # Frontend Mentor - Seção de grade de depoimentos
 
-##Objetivo de interface desejada 
+## Objetivo de interface desejada 
 
 ![desktop-design](https://user-images.githubusercontent.com/115605744/222991536-6007409a-7841-4afc-85ad-55f23702cb8c.jpg)
 
 ![mobile-design](https://user-images.githubusercontent.com/115605744/222991737-fdaca1a8-74a4-4826-9f5e-38281d8e4006.jpg)
 
-##Interface obtida
+## Interface obtida
 
 ![Captura de tela 2023-03-05 201541](https://user-images.githubusercontent.com/115605744/222991705-158652e3-1a6c-412f-9a03-8ad1704bb982.png)
 
