@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
 main {
     min-height: 100%;
     display: flex;
@@ -91,9 +93,28 @@ div > .txt-principal {
 .user {
     margin-bottom: 10px;
 }
-/* 
-#user1, #user2, #user5 {
-    color: white;
-} */
+
+.nome {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.verificado {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: small;
+}
+
+.txt-principal {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.txt-secundario {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: small;
+}
+
 
 
