@@ -1,41 +1,99 @@
+main {
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#ECF2F7;
+}
+
+
 .container {
-    background-color:rgb(42, 165, 69);
-    border: 3px solid red;
-    padding: 15px;
+    background-color:#ECF2F7;
+    /* border: 3px solid red; */
+    /* margin: 0 auto; */
+    min-width: 860px;
     display: grid;
     grid-template-areas: 
     "t1 t1 t2 t3"
     "t4 t5 t5 t3";
-    grid-gap: 20px;
+    gap: 20px;
+    height: calc(100vh - (100vh/4));
 }
 
-.container div {
-    background-color: antiquewhite;
-    border: 2px solid blue;
+.container > div {
+    /* border: 2px solid blue; */
     padding: 20px;
     border-radius: 10px;
+    box-shadow: 3px 3px 20px #b4b9bd;
+}
+
+div > img {
+    display: inline-block;
+    height: 30px;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+
+div > div {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+div > h1 {
+    display: block;
+}
+
+div > .txt-principal {
+    margin-bottom: 10px;
 }
 
 #item-1 {
     grid-area: t1;
-    grid-column: "t1";
-    
+    width: 400px;  
+    background: url(img-aspas.png) no-repeat;
+    background-color:#7A46CE;
+    background-position: 300px 0 ;
+    background-size: 95px 95px; 
 }
 
 #item-2 {
    grid-area: t2;
+   background-color:#49556A;  
+   width: 150px; 
 }
 
 #item-3 {
     grid-area: t3;
-    grid-row: "t3";
+    background-color:#FDFDFD; 
+    width: 150px; 
 }
 
 #item-4 {
     grid-area: t4;
+    background-color:#FFFFFF;
+    width: 150px;
 }
 
 #item-5 {
     grid-area: t5;
-    grid-column: "t5";
+    background-color:#1D2130; 
+    width: 400px;   
 }
+
+#item-1, #item-2, #item-5 {
+    color: white;
+}
+
+#item-3, #item-4 {
+    color: #1C2022;
+}
+
+.user {
+    margin-bottom: 10px;
+}
+/* 
+#user1, #user2, #user5 {
+    color: white;
+} */
+
+
