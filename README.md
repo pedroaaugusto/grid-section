@@ -18,6 +18,6 @@ https://inspiring-figolla-5e0a27.netlify.app/
 
 ![Captura de tela 2023-03-05 201541](https://user-images.githubusercontent.com/115605744/222991705-158652e3-1a6c-412f-9a03-8ad1704bb982.png)
 
-![Captura de tela 2023-03-05 201830](https://user-images.githubusercontent.com/115605744/222991709-fa4ac41f-e81e-41fe-bffd-84686fbee4ef.png)
+![img-site-grid-section-2](https://user-images.githubusercontent.com/115605744/225175004-b8d572ee-a78e-48cd-8379-0b69996c4cd3.png)
 
-![Captura de tela 2023-03-05 201806](https://user-images.githubusercontent.com/115605744/222991719-56046b92-a2f4-4948-afbe-71b5510f4d60.png)
+![img-site-grid-section-3](https://user-images.githubusercontent.com/115605744/225175010-ff4e1fc3-7634-41e0-8a3b-85878d16ff8a.png)
